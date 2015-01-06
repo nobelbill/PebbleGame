@@ -1,0 +1,50 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nobelbill@gmail.com",
+    "longName": "Game",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/draw-crop.png",
+                "name": "IMAGE_DRAW",
+                "type": "png"
+            },
+            {
+                "file": "images/vic-crop.png",
+                "name": "IMAGE_VIC",
+                "type": "png"
+            },
+            {
+                "file": "images/fail-crop.png",
+                "name": "IMAGE_LOSE",
+                "type": "png"
+            },
+            {
+                "file": "images/3nd.png",
+                "name": "IMAGE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/2nd.png",
+                "name": "IMAGE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/1st.png",
+                "name": "IMAGE_1",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Game",
+    "uuid": "241a44bb-fa61-4b1c-a203-be79f3602c1e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
